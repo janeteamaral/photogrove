@@ -1,0 +1,6 @@
+{
+  "domain": "dev-xm82t8w6.us.auth0.com",
+  "clientId": "j1Uf5iOQSatbsNaeiydC3b3wUv5UbFBh",
+  "redirectUri": "http://localhost:3000",
+  "audience": "https://photogrove.herokuapp.com/v1/graphql"
+}
