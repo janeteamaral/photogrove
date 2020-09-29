@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/photogrove/static/css/main.4a75b481.chunk.css",
+    "main.js": "/photogrove/static/js/main.fe063591.chunk.js",
+    "main.js.map": "/photogrove/static/js/main.fe063591.chunk.js.map",
+    "runtime-main.js": "/photogrove/static/js/runtime-main.d58b574c.js",
+    "runtime-main.js.map": "/photogrove/static/js/runtime-main.d58b574c.js.map",
+    "static/css/2.d34346ea.chunk.css": "/photogrove/static/css/2.d34346ea.chunk.css",
+    "static/js/2.5faf8c2f.chunk.js": "/photogrove/static/js/2.5faf8c2f.chunk.js",
+    "static/js/2.5faf8c2f.chunk.js.map": "/photogrove/static/js/2.5faf8c2f.chunk.js.map",
+    "index.html": "/photogrove/index.html",
+    "precache-manifest.cdcc4ca3e11ba5a535926e51a26a615a.js": "/photogrove/precache-manifest.cdcc4ca3e11ba5a535926e51a26a615a.js",
+    "service-worker.js": "/photogrove/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/photogrove/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.4a75b481.chunk.css.map": "/photogrove/static/css/main.4a75b481.chunk.css.map",
+    "static/js/2.5faf8c2f.chunk.js.LICENSE.txt": "/photogrove/static/js/2.5faf8c2f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/photogrove/static/media/sprite.65ffa5ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d58b574c.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.5faf8c2f.chunk.js",
+    "static/css/main.4a75b481.chunk.css",
+    "static/js/main.fe063591.chunk.js"
+  ]
+}
